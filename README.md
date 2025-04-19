@@ -1,6 +1,6 @@
 # 🙌 Profile
 
-I'm a university student based in Tokyo, passionate about programming and creating meaningful web applications. I love using Generative AI to boost productivity and bring ideas to life!
+I'm a university student based in Tokyo, passionate about programming and creating meaningful web applications. I love using Generative AI to boost productivity and bring ideas to life.
 
 ---
 
@@ -16,13 +16,12 @@ I'm a university student based in Tokyo, passionate about programming and creati
 
 ## 📹 Project Showcase
 
-https://github.com/moeka1030/moeka1030/issues/1
+
 
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moeka1030&show_icons=true&theme=dracula)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeka1030&layout=compact&theme=dracula)
 
 ---

@@ -16,7 +16,7 @@ I'm a university student based in Tokyo, passionate about programming and creati
 
 ## 📹 Project Showcase
 
-
+![Image](https://github.com/user-attachments/assets/216da4d3-1f36-4b4d-8eba-78e8ad129881)
 
 ---
 
